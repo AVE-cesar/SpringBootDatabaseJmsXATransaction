@@ -4,4 +4,5 @@ Spring boot app with:<br/>
   * jms put via JmsTemplate
   * XA transaction on JDBC and JMS
   * Atomikos as the transaction manager<br/>
+  * COA COD management
 
